@@ -1,4 +1,4 @@
-# Perfil de Usuario
+# Academia Tux
 
 ## Bio
 ¡Hola! Soy [Matías Zugasti] soy LPIC-2 diplomado de LPI y estoy aquí para brindarte información de los cursos que doy hace ya 2 años.
