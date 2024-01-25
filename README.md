@@ -16,12 +16,12 @@
 
 ### Curso 1 - Linux Essentials
 ![Banner Curso 1](https://media.proprofs.com/images/QM/user_images/1826446/1632736063.jpg)
-- **Título:** [Título del Curso 1]
-- **Descripción:** [Breve descripción del Curso 1]
-- **Enlace al Curso:** [Enlace al Curso 1]
+- **Precio:** [U$S 10 - $25.000 ARS]
+- **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI).]
+- **Modo de cursada:** [Sincrónica / Asincrónica]
 
-### Curso 2
-![Banner Curso 2](enlace-a-banner-curso2.jpg)
+### Curso 2 - Hacking Ético
+![Banner Curso 2](https://i.ytimg.com/vi/l2t4B6NdIp0/hq720.jpg)
 - **Título:** [Título del Curso 2]
 - **Descripción:** [Breve descripción del Curso 2]
 - **Enlace al Curso:** [Enlace al Curso 2]
