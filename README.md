@@ -6,9 +6,9 @@
 He partido de la FLISOL de Argentina del 2023 dando una clase académica sobre GNU/Linux, además de participar en el Open Smart Festival de Colombia.
 
 
+[Certificación Oficial]([https://www.google.com/](https://drive.google.com/file/d/1u6G9pWSMa2p51_SwFIoXSqpIt6MLfC-W/view?usp=sharing))
 
-
-![Imagen de Perfil]([https://drive.google.com/file/d/1u6G9pWSMa2p51_SwFIoXSqpIt6MLfC-W/view?usp=sharing])
+---------------------------------------------
 
 ## Redes Sociales
 
