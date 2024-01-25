@@ -8,7 +8,7 @@ He partido de la FLISOL de Argentina del 2023 dando una clase académica sobre G
 
 
 
-![Imagen de Perfil](enlace-a-tu-imagen.jpg)
+![Imagen de Perfil]([enlace-a-tu-imagen.jpg](https://discord.gg/C8JTtR9uxW))
 
 ## Redes Sociales
 
