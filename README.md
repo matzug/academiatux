@@ -10,7 +10,7 @@
 - **Discord:** [Enlace a Discord](https://discord.gg/C8JTtR9uxW)
 - **Facebook:** [Enlace a Facebook](https://www.facebook.com/academiatux)
 - **WhatsApp:** [Enlace a WhatsApp](https://wa.link/150cdj)
-- **Telegram:** [Enlace a Telegram](https://t.me/)
+- **Telegram:** [Enlace a Telegram](https://telegram.me/academiatux)
 
 ## Cursos Destacados
 
