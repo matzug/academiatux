@@ -7,7 +7,7 @@
 
 ## Redes Sociales
 
-- **Discord:** [Enlace a Discord](https://discord.com/)
+- **Discord:** [Enlace a Discord](https://discord.gg/C8JTtR9uxW)
 - **Facebook:** [Enlace a Facebook](https://www.facebook.com/)
 - **WhatsApp:** [Enlace a WhatsApp](https://web.whatsapp.com/)
 - **Telegram:** [Enlace a Telegram](https://t.me/)
