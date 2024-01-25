@@ -21,13 +21,13 @@
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 
 ### Curso 2 - Hacking Ético
-![Banner Curso 2](https://i.ytimg.com/vi/l2t4B6NdIp0/hq720.jpg)
-- **Título:** [Título del Curso 2]
-- **Descripción:** [Breve descripción del Curso 2]
-- **Enlace al Curso:** [Enlace al Curso 2]
+![Banner Curso 2](https://www.internautas.org/graficos/Hacking-Etico.jpg)
+- **Precio:** [U$S 5 - $15.000 ARS]
+- **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá los conceptos del hacking ético, sobre redes y sus vulnerabilidades, para así poder adentrarse en cursos más avanzados sin problema alguno.]
+- **Modo de cursada:** [Sincrónica]
 
-### Curso 3
-![Banner Curso 3](enlace-a-banner-curso3.jpg)
-- **Título:** [Título del Curso 3]
-- **Descripción:** [Breve descripción del Curso 3]
-- **Enlace al Curso:** [Enlace al Curso 3]
+### Curso 3 - Kali Linux
+![Banner Curso 3](https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw)
+- **Precio:** [U$S 10 - $25.000 ARS]
+- **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá el uso del SO Kali Linux, los comandos y programas que se utilizan para auditar una red, penetración de redes Wi-Fi, password cracking, hacking ético.]
+- **Modo de cursada:** [Sincrónica]
