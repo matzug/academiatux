@@ -8,8 +8,8 @@
 ## Redes Sociales
 
 - **Discord:** [Enlace a Discord](https://discord.gg/C8JTtR9uxW)
-- **Facebook:** [Enlace a Facebook](https://www.facebook.com/)
-- **WhatsApp:** [Enlace a WhatsApp](https://web.whatsapp.com/)
+- **Facebook:** [Enlace a Facebook](https://www.facebook.com/academiatux)
+- **WhatsApp:** [Enlace a WhatsApp](wa.link/150cdj)
 - **Telegram:** [Enlace a Telegram](https://t.me/)
 
 ## Cursos Destacados
