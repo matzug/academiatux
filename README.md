@@ -42,9 +42,11 @@ He participado de la FLISOL de Argentina del 2023 dando una clase académica sob
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá el uso del SO Kali Linux, los comandos y programas que se utilizan para auditar una red, penetración de redes Wi-Fi, password cracking, hacking ético.]
 - **Modo de cursada:** [Sincrónica]
 
+---------------------------------------------
 
 ### Curso 4 - Linux Administrator (LPIC 1 - Primera parte)
-![Banner Curso 3](https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)
-- **Precio:** [U$S 10 - $25.000 ARS]
-- **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá el uso del SO Kali Linux, los comandos y programas que se utilizan para auditar una red, penetración de redes Wi-Fi, password cracking, hacking ético.]
-- **Modo de cursada:** [Sincrónica]
+![Banner Curso 3](https://images.credly.com/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/LPI_LPIC1.png)
+- **Precio:** [U$S 20 - $35.000 ARS]
+- **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI). Tener en cuenta que el curso de por sí no brinda ni voucher ni acceso al certificado, sino que es una ayuda para poder rendirlo de forma efectiva y no perder el derecho a examen de LPI.]
+- **Modo de cursada:** [Sincrónica / Asincrónica]
+
