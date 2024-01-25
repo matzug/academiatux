@@ -15,7 +15,7 @@
 ## Cursos Destacados
 
 ### Curso 1 - Linux Essentials
-![Banner Curso 1](https://th.bing.com/th/id/R.18c5a44cc813ae0cc7c8bc079cb38221?rik=d0B5aTmcM37fpg&riu=http%3a%2f%2fww1.prweb.com%2fprfiles%2f2012%2f09%2f29%2f9960245%2fLinuxEssential_Seal_final.jpg)
+![Banner Curso 1](https://media.proprofs.com/images/QM/user_images/1826446/1632736063.jpg)
 - **Título:** [Título del Curso 1]
 - **Descripción:** [Breve descripción del Curso 1]
 - **Enlace al Curso:** [Enlace al Curso 1]
