@@ -1,7 +1,12 @@
 # Perfil de Usuario
 
 ## Bio
-¡Hola! Soy [Tu Nombre] y estoy apasionado/a por [tus intereses]. [Breve descripción sobre ti].
+¡Hola! Soy [Matías Zugasti] soy LPIC-2 diplomado de LPI y estoy aquí para brindarte información de los cursos que doy hace ya 2 años.
+
+He partido de la FLISOL de Argentina del 2023 dando una clase académica sobre GNU/Linux, además de participar en el Open Smart Festival de Colombia.
+
+
+
 
 ![Imagen de Perfil](enlace-a-tu-imagen.jpg)
 
@@ -17,7 +22,7 @@
 ### Curso 1 - Linux Essentials
 ![Banner Curso 1](https://media.proprofs.com/images/QM/user_images/1826446/1632736063.jpg)
 - **Precio:** [U$S 10 - $25.000 ARS]
-- **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI).]
+- **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI), como así también el entendimiento de la consola y sus comandos.]
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 
 ### Curso 2 - Hacking Ético
