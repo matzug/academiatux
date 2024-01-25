@@ -56,6 +56,6 @@ He participado de la FLISOL de Argentina del 2023 dando una clase académica sob
 
 ### Sorteo Curso 2 - Hacking Ético - Bonificado al 100%
 ![Banner Curso 3](https://tiermaker.com/images/templates/academia-tux---tier-distribuciones-gnu-linux-15747675/157476751682436903.png)
-- **Link Inscripción:** (https://forms.gle/6x7pAzu4PAihZwhSA)]
+- **Link Inscripción:** (https://forms.gle/2oRYGdq7TPxiUC7o8)]
 - **Descripción:** [Se sortearán 10 personas para poder realizar el curso en días y horas a determinar, bonificado el 100% y realizado por la plataforma discord.]
 
