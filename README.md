@@ -5,9 +5,11 @@
 
 He participado de la FLISOL de Argentina del 2023 y 2024 dando clases académicas sobre GNU/Linux, además de participar en el Open Smart Festival de Colombia.
 
+Ofrezco estos 4 cursos con precios separados (todo el paquete de ellos a U$S100//ARS $300.000), en donde cada uno ofrece encuentros en vivo por meet de 1/2hs por semana, 
+documentación, ejercicios, para un mejor entendimiento del curso seleccionado. Los mismos pueden ser mixtos (síncrónico/ascinrónico), ya que se cuenta con un campus en 
+google classroom/discord.
 
-
-
+Las clases se dictan los días sábados, horario a convenir.
 
 ---------------------------------------------
 
@@ -31,13 +33,13 @@ He participado de la FLISOL de Argentina del 2023 y 2024 dando clases académica
 
 ### Curso 2 - Redes
 ![Banner Curso 3](https://www.redeszone.net/app/uploads-redeszone.net/2018/10/Networkctl-estado-redes-linux-930x452.jpg)
-- **Precio:** [U$S 15 - $60.000 ARS]
+- **Precio:** [U$S 15 - $65.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, servirá para tener conocimientos sólidos de redes y configuración y puesta en marcha de distintos servicios para el servidor dedicado. Además de entender y comprender las reglas en el firewall del servidor.]
 - **Modo de cursada:** [Asincrónica]
 - **Plan de Estudio:** 
 --------------------------------------------
 
-### Curso 4 - Kali Linux
+### Curso 3 - Kali Linux
 ![Banner Curso 3](https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw)
 - **Precio:** [U$S 20 - $70.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá el uso del SO Kali Linux, los comandos y programas que se utilizan para auditar una red, penetración de redes Wi-Fi, password cracking, hacking ético.]
@@ -45,9 +47,9 @@ He participado de la FLISOL de Argentina del 2023 y 2024 dando clases académica
 - **Plan de Estudio:** 
 ---------------------------------------------
 
-### Curso 5 - Linux Administrator (LPIC 1 - Primera parte)
+### Curso 4 - Linux Administrator (LPIC 1 - Primera parte)
 ![Banner Curso 3](https://images.credly.com/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/LPI_LPIC1.png)
-- **Precio:** [U$S 30 - $100.000 ARS]
+- **Precio:** [U$S 50 - $100.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI). Tener en cuenta que el curso de por sí no brinda ni voucher ni acceso al certificado, sino que es una ayuda para poder rendirlo de forma efectiva y no perder el derecho a examen de LPI.]
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 - **Plan de Estudio:** 
