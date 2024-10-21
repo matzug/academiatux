@@ -42,15 +42,15 @@ Las clases se dictan los días sábados, horario a convenir.
 
 | Plan        | de | Estudio      |
 |--------------|------|-------------|
-| Inicio en GNU/Linux        | Blanquear contraseña root   | Buenos Aires|
-| Software libre y su filosofía        | 30   | Systemd      |
-|  Kernel      | 22   | Tokio       |
-| Inicio en GNU/Linux        | 25   | Buenos Aires|
-| Software libre y su filosofía        | 30   | Madrid      |
-|  Kernel      | 22   | Tokio       |
-| Inicio en GNU/Linux        | 25   | Buenos Aires|
-| Software libre y su filosofía        | 30   | Madrid      |
-|  Kernel      | 22   | Tokio       |
+| Inicio en GNU/Linux        | Blanquear contraseña root   | Línea de Comandos I|
+| Software libre y su filosofía        | Manejo de archivos   | Systemd      |
+|  Kernel      | Administración de almacenamiento   | Administración de procesos       |
+| Paquetes de software        | Habilidades TIC   | Línea de Comandos II|
+| Buscar y extraer datos        | Repaso SO   | Hardware      |
+|  Red     | Seguridad   | Usuarios y grupos       |
+| Permisos de archivos        | 25   | Buenos Aires|
+| Software libre y su filosofía        | Comprimir/Descomprimir   | Línea de Comandos III.      |
+
 
 
 ---------------------------------------------
