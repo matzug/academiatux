@@ -40,11 +40,18 @@ Las clases se dictan los días sábados, horario a convenir.
 | Red | Seguridad| Usuarios y grupos |
 | Permisos de archivos | Comprimir/Descomprimir| Línea de Comandos III. |
 
-| Nombre       | Edad | Ciudad      |
+| Plan        | de | Estudio      |
 |--------------|------|-------------|
-| Juan         | 25   | Buenos Aires|
-| María        | 30   | Madrid      |
-| Carlos       | 22   | Tokio       |
+| Inicio en GNU/Linux        | 25   | Buenos Aires|
+| Software libre y su filosofía        | 30   | Madrid      |
+|  Kernel      | 22   | Tokio       |
+| Inicio en GNU/Linux        | 25   | Buenos Aires|
+| Software libre y su filosofía        | 30   | Madrid      |
+|  Kernel      | 22   | Tokio       |
+| Inicio en GNU/Linux        | 25   | Buenos Aires|
+| Software libre y su filosofía        | 30   | Madrid      |
+|  Kernel      | 22   | Tokio       |
+
 
 ---------------------------------------------
 
