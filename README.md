@@ -9,7 +9,7 @@ Ofrezco estos 4 cursos con precios separados (todo el paquete de ellos a U$S100/
 documentación, ejercicios, para un mejor entendimiento del curso seleccionado. Los mismos pueden ser mixtos (síncrónico/ascinrónico), ya que se cuenta con un campus en 
 google classroom/discord.
 
-Las clases se dictan los días sábados, horario a convenir.
+Las clases se dictan los días sábados, horario a convenir. Cada curso posee horas cátedra para el mejor entendimiento de los temas (mínimo de 8hs, máximo de 16hs).
 
 ---------------------------------------------
 
