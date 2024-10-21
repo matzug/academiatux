@@ -29,7 +29,17 @@ Las clases se dictan los días sábados, horario a convenir.
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 - **Plan de Estudio:** 
 
-1) Inicio en GNU/Linux. 2) Software Libre y su filosofía. 3) Kernel 4) Blanquear contraseña root. 5) Systemd 6) Comandos 7) Manejo de Archivos. 8) Administración de Almacenamiento. 9) Administración de Procesos. 10) Paquetes de Software. 11) Habilidades TIC. 12) Línea de Comandos I. 13) Buscar y extraer datos. 14) Convertir un script. 15) Repaso SO 16) Hardware. 17) Red. 19) Seguridad 20) Usuarios y grupos. 21) Permisos de archivos. 22) Comprimir/Descomprimir, 23) Línea de Comandos II.
+| Plan de Estudio|
+
+|--------------|--------------|--------------|
+| Inicio en GNU/Linux | Software libre y su filosofía | Kernel |
+| Blanquear contraseña root | Systemd | Línea de Comandos I |
+| Manejo de archivos | Administración de almacenamiento | Administración de procesos |
+| Paquetes de software | Habilidades TIC | Línea de Comandos II |
+| Buscar y extraer datos | Repaso SO | Hardware |
+| Red | Seguridad| Usuarios y grupos |
+| Permisos de archivos | Comprimir/Descomprimir| Línea de Comandos III. |
+
 
 ---------------------------------------------
 
