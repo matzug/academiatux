@@ -37,8 +37,8 @@ Las clases se dictan los días sábados, horario a convenir. Cada curso posee ho
 | Paquetes de software        | Habilidades TIC   | Línea de Comandos II|
 | Buscar y extraer datos        | Repaso SO   | Hardware      |
 |  Red     | Seguridad   | Usuarios y grupos       |
-| Permisos de archivos        | 25   | Buenos Aires|
-| Software libre y su filosofía        | Comprimir/Descomprimir   | Línea de Comandos III.      |
+| Permisos de archivos        | Comprimir/Descomprimir   |  Línea de Comandos III.|
+
 
 
 
