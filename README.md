@@ -24,27 +24,33 @@ Las clases se dictan los días sábados, horario a convenir.
 
 ### Curso 1 - Linux Essentials
 ![Banner Curso 1](https://media.proprofs.com/images/QM/user_images/1826446/1632736063.jpg)
-- **Precio:** [U$S 20 - $70.000 ARS]
+- **Precio:** [U$S 20 - $80.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI), como así también el entendimiento de la consola y sus comandos.]
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 - **Plan de Estudio:** 
+
+1) Inicio en GNU/Linux. 2) Software Libre y su filosofía. 3) Kernel 4) Blanquear contraseña root. 5) Systemd 6) Comandos 7) Manejo de Archivos. 8) Administración de Almacenamiento. 9) Administración de Procesos. 10) Paquetes de Software. 11) Habilidades TIC. 12) Línea de Comandos I. 13) Buscar y extraer datos. 14) Convertir un script. 15) Repaso SO 16) Hardware. 17) Red. 19) Seguridad 20) Usuarios y grupos. 21) Permisos de archivos. 22) Comprimir/Descomprimir, 23) Línea de Comandos II.
 
 ---------------------------------------------
 
 ### Curso 2 - Redes
 ![Banner Curso 3](https://www.redeszone.net/app/uploads-redeszone.net/2018/10/Networkctl-estado-redes-linux-930x452.jpg)
-- **Precio:** [U$S 15 - $65.000 ARS]
+- **Precio:** [U$S 15 - $70.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, servirá para tener conocimientos sólidos de redes y configuración y puesta en marcha de distintos servicios para el servidor dedicado. Además de entender y comprender las reglas en el firewall del servidor.]
 - **Modo de cursada:** [Asincrónica]
 - **Plan de Estudio:** 
+
+1) Concepto de redes 2) Configuración DHCP 3) Configuración DNS 4) Configuración SSH 5) Configuración FTP 6) Configuración NFS 7) Configuración SAMBA 8) Apache webserver 9) Iptables & Squid.
 --------------------------------------------
 
 ### Curso 3 - Kali Linux
 ![Banner Curso 3](https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw)
-- **Precio:** [U$S 20 - $70.000 ARS]
+- **Precio:** [U$S 30 - $85.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá el uso del SO Kali Linux, los comandos y programas que se utilizan para auditar una red, penetración de redes Wi-Fi, password cracking, hacking ético.]
 - **Modo de cursada:** [Asincrónica]
 - **Plan de Estudio:** 
+
+1) Introducción al Hacking ético 2) Conceptos básicos y vulnerabilidades 3) RapidPayload 4) Metasploit 5) IP 6)Robtex 7) NMAP 8)Creación de diccionarios 9) Hashdumping 10) Protocolos WPS/WEP/WPA/ARP 11) redes ocultas 12) Router.
 ---------------------------------------------
 
 ### Curso 4 - Linux Administrator (LPIC 1 - Primera parte)
@@ -53,6 +59,8 @@ Las clases se dictan los días sábados, horario a convenir.
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI). Tener en cuenta que el curso de por sí no brinda ni voucher ni acceso al certificado, sino que es una ayuda para poder rendirlo de forma efectiva y no perder el derecho a examen de LPI.]
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 - **Plan de Estudio:** 
+
+1) Hardware 2) Arranque el sistema 3) Objetivo de arranque (niveles) 4) esuqmea HDD 5) GRUB 6) Librerias 7) APT 8) Virtualización 9) Línea de Comandos III 10) Secuencias usando filtros 11) Administración de archivos 12) Creación, supervisión, matar procesos 13) Modificar prioridadades de procesos 14) Particiones de sistemas de archivos 15) Enlace duro y simbólico.
 -------------------------------------------
 
 
