@@ -42,8 +42,8 @@ Las clases se dictan los días sábados, horario a convenir.
 
 | Plan        | de | Estudio      |
 |--------------|------|-------------|
-| Inicio en GNU/Linux        | 25   | Buenos Aires|
-| Software libre y su filosofía        | 30   | Madrid      |
+| Inicio en GNU/Linux        | Blanquear contraseña root   | Buenos Aires|
+| Software libre y su filosofía        | 30   | Systemd      |
 |  Kernel      | 22   | Tokio       |
 | Inicio en GNU/Linux        | 25   | Buenos Aires|
 | Software libre y su filosofía        | 30   | Madrid      |
