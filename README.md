@@ -40,6 +40,11 @@ Las clases se dictan los días sábados, horario a convenir.
 | Red | Seguridad| Usuarios y grupos |
 | Permisos de archivos | Comprimir/Descomprimir| Línea de Comandos III. |
 
+| Nombre       | Edad | Ciudad      |
+|--------------|------|-------------|
+| Juan         | 25   | Buenos Aires|
+| María        | 30   | Madrid      |
+| Carlos       | 22   | Tokio       |
 
 ---------------------------------------------
 
