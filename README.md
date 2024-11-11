@@ -24,7 +24,7 @@ Las clases se dictan los días sábados, horario a convenir. Cada curso posee ho
 
 ### Curso 1 - Linux Essentials
 ![Banner Curso 1](https://media.proprofs.com/images/QM/user_images/1826446/1632736063.jpg)
-- **Precio:** [U$S 20 - $80.000 ARS]
+- **Precio:** [U$S 15 - $65.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI), como así también el entendimiento de la consola y sus comandos.]
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 
@@ -46,7 +46,7 @@ Las clases se dictan los días sábados, horario a convenir. Cada curso posee ho
 
 ### Curso 2 - Redes
 ![Banner Curso 3](https://www.redeszone.net/app/uploads-redeszone.net/2018/10/Networkctl-estado-redes-linux-930x452.jpg)
-- **Precio:** [U$S 15 - $70.000 ARS]
+- **Precio:** [U$S 15 - $65.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, servirá para tener conocimientos sólidos de redes y configuración y puesta en marcha de distintos servicios para el servidor dedicado. Además de entender y comprender las reglas en el firewall del servidor.]
 - **Modo de cursada:** [Asincrónica]
 
@@ -60,7 +60,7 @@ Las clases se dictan los días sábados, horario a convenir. Cada curso posee ho
 
 ### Curso 3 - Kali Linux
 ![Banner Curso 3](https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw)
-- **Precio:** [U$S 30 - $85.000 ARS]
+- **Precio:** [U$S 15 - $65.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá el uso del SO Kali Linux, los comandos y programas que se utilizan para auditar una red, penetración de redes Wi-Fi, password cracking, hacking ético.]
 - **Modo de cursada:** [Asincrónica]
 
