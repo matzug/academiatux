@@ -24,7 +24,7 @@ Las clases se dictan los días sábados, horario a convenir. Cada curso posee ho
 
 ### Curso 1 - Linux Essentials
 ![Banner Curso 1](https://media.proprofs.com/images/QM/user_images/1826446/1632736063.jpg)
-- **Precio:** [U$S 15 - $65.000 ARS]
+- **Precio:** [U$S 20 - $80.000 ARS]
 - **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI), como así también el entendimiento de la consola y sus comandos.]
 - **Modo de cursada:** [Sincrónica / Asincrónica]
 
