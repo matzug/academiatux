@@ -67,7 +67,19 @@ Fijamos nuestros precios pensando en la realidad argentina, ofreciendo una forma
 
 Características:
 
-Opción A: Asincrónico	(Material	Acceso de por vida a videos pre-grabados) Precio $80.000 ARS // U$S40
-Opción B: Híbrido (Mentoría) - Videos pre-grabados + Sesión en vivo semanal Soporte	Autogestionado	Consultas técnicas directas con el instructor. Precio $180.000 ARS // U$S60
+**Opción A: Asincrónico**	(Material	Acceso de por vida a videos pre-grabados) **Precio $80.000 ARS // U$S40**
+
+
+**Opción B: Híbrido (Mentoría)** - Videos pre-grabados + Sesión en vivo semanal Soporte	Autogestionado	Consultas técnicas directas con el instructor. **Precio $180.000 ARS // U$S60**
 
     
+**📬 Inscripciones y Consultas**
+
+¿Listo para dar el salto?
+
+## Redes Sociales ##
+
+- **Facebook:** [Enlace a Facebook](https://www.facebook.com/academiatux)
+- **WhatsApp:** [Enlace a WhatsApp](https://chat.whatsapp.com/F8vgk0ghstH3fnp9Ng7ALq)
+
+¡Nos vemos en la terminal! 💻
