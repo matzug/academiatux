@@ -5,7 +5,7 @@
 
 He participado de la FLISOL de Argentina del 2023/2024/2025 dando clases académicas sobre GNU/Linux, además de participar en el Open Smart Festival de Colombia.
 
-##**Informacion**
+##Informacion
 
 **🐧 Domina Linux: De la Consola a la Administración de Sistemas.**
 Formación Técnica con Metodología Mixta (Sincrónica/Asincrónica)
