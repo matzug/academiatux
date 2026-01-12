@@ -59,8 +59,9 @@ El programa está dividido en dos grandes bloques que cubren desde los fundament
     Enfoque Práctico: No solo vemos teoría. Trabajamos sobre casos reales: desde blanquear una contraseña de root hasta optimizar procesos del sistema.
 
     Ahorro Estratégico: Mientras que una diplomatura universitaria ronda los $660.000 ARS, aquí obtenés el mismo conocimiento técnico de forma directa y aplicada.
+    
 
-    **🛠 Modalidades y Costos (Enero 2026)**
+  **🛠 Modalidades y Costos (Enero 2026)**
 
 Fijamos nuestros precios pensando en la realidad argentina, ofreciendo una formación de nivel universitario a una fracción de su costo institucional.
 
@@ -69,9 +70,4 @@ Características:
 Opción A: Asincrónico	(Material	Acceso de por vida a videos pre-grabados) Precio $80.000 ARS // U$S40
 Opción B: Híbrido (Mentoría) - Videos pre-grabados + Sesión en vivo semanal Soporte	Autogestionado	Consultas técnicas directas con el instructor. Precio $180.000 ARS // U$S60
 
-Material	Acceso de por vida a videos pre-grabados.	Videos pre-grabados + Sesión en vivo semanal
-Soporte	Autogestionado	Consultas técnicas directas con el instructor
-Ideal para	Personas con poco tiempo y mucha disciplina	Quienes buscan acompañamiento y networking
-Precio (ARS)	$60.000	$180.000
-Precio (USD)	$40 USD	$120 USD
     
