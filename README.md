@@ -16,15 +16,18 @@ Este repositorio contiene el material y la hoja de ruta para el curso de Linux d
 
 Para garantizar el aprendizaje, combinamos la flexibilidad de lo asincrónico con el soporte humano de lo sincrónico:
 
-    Campus Virtual: Mediante grupo de Whatsapp (o de forma individual) se otorgaŕan materiales certificados, documentación, ejercicios para ejecutar en máquina virtual.
+    Campus Virtual: Mediante grupo de Whatsapp (o de forma individual) se otorgaŕan materiales certificados, 
+    documentación, ejercicios para ejecutar en máquina virtual.
 
     Videos Pre-grabados: Disponibles 24/7 para que avances a tu ritmo. Estos videos son originales y privados.
 
-    Encuentros en Vivo: Sesiones de 1 a 2 horas todos los sábados (horario a convenir) vía Meet, Teams o Zoom para resolución de dudas, ejercicios prácticos y demostraciones en tiempo real.
+    Encuentros en Vivo: Sesiones de 1 a 2 horas todos los sábados (horario a convenir) vía Meet, Teams o 
+    Zoom para resolución de dudas, ejercicios prácticos y demostraciones en tiempo real.
 
     Carga Horaria: Cada módulo posee entre 8 y 16 horas cátedra de contenido intensivo.
 
-    Práctica Real: Documentación detallada y ejercicios diseñados para entornos de producción. **Al final se hará una evaluación similar a la de LPIC.**
+    Práctica Real: Documentación detallada y ejercicios diseñados para entornos de producción. 
+    **Al final se hará una evaluación similar a la de LPIC.**
 
 ---------------------------------------------
 
