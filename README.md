@@ -85,10 +85,15 @@ Fijamos nuestros precios pensando en la realidad argentina, ofreciendo una forma
 
 Características:
 
-**Opción A: Asincrónico**	(Material	Acceso de por vida a videos pre-grabados) **Precio $80.000 ARS // U$S55**
+**Opción A: Asincrónico**-> Material Acceso de por vida a videos pre-grabados y documentación. 
+Exámen final estilo LPIC para poder rendir el mismo sin problemas. 
+**Precio $80.000 ARS // U$S55**
 
 
-**Opción B: Híbrido (Mentoría)** - Videos pre-grabados + Sesión en vivo semanal Soporte	Autogestionado	Consultas técnicas directas con el instructor. **Precio $180.000 ARS // U$S85**
+**Opción B: Híbrido (Mentoría)** - Videos pre-grabados + Sesión en vivo semanal. Soporte Autogestionado. 
+Consultas técnicas directas con el instructor. 
+Exámen final estilo LPIC para poder rendir el mismo sin problemas 
+**Precio $180.000 ARS // U$S85**
 
     
 **📬 Inscripciones y Consultas**
