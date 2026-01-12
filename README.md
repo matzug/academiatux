@@ -85,10 +85,10 @@ Fijamos nuestros precios pensando en la realidad argentina, ofreciendo una forma
 
 Características:
 
-**Opción A: Asincrónico**	(Material	Acceso de por vida a videos pre-grabados) **Precio $80.000 ARS // U$S40**
+**Opción A: Asincrónico**	(Material	Acceso de por vida a videos pre-grabados) **Precio $80.000 ARS // U$S55**
 
 
-**Opción B: Híbrido (Mentoría)** - Videos pre-grabados + Sesión en vivo semanal Soporte	Autogestionado	Consultas técnicas directas con el instructor. **Precio $180.000 ARS // U$S60**
+**Opción B: Híbrido (Mentoría)** - Videos pre-grabados + Sesión en vivo semanal Soporte	Autogestionado	Consultas técnicas directas con el instructor. **Precio $180.000 ARS // U$S85**
 
     
 **📬 Inscripciones y Consultas**
