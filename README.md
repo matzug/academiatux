@@ -21,72 +21,57 @@ Las clases se dictan los días sábados, horario a convenir. Cada curso posee ho
 
 ## Cursos Destacados
 
-### Curso 1 - Linux Essentials
-![Banner Curso 1](https://media.proprofs.com/images/QM/user_images/1826446/1632736063.jpg)
-- **Precio:** [U$S 15 - $80.000 ARS]
-- **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI), como así también el entendimiento de la consola y sus comandos.]
-- **Modo de cursada:** [Asincrónica]
+**🐧 Linux Essentials & LPIC-1: De la Consola a la Administración de Sistemas**
 
+¿Querés dominar el sistema operativo que corre el mundo? Este curso está diseñado para llevarte desde tus primeros pasos en la terminal hasta los conceptos críticos de administración de servidores, con un temario 100% alineado a los objetivos de la Linux Professional Institute (LPI).
 
-| Plan        | de | Estudio      |
-|--------------|------|-------------|
-| Inicio en GNU/Linux        | Blanquear contraseña root   | Línea de Comandos I|
-| Software libre y su filosofía        | Manejo de archivos   | Systemd      |
-|  Kernel      | Administración de almacenamiento   | Administración de procesos       |
-| Paquetes de software        | Habilidades TIC   | Línea de Comandos II|
-| Buscar y extraer datos        | Repaso SO   | Hardware      |
-|  Red     | Seguridad   | Usuarios y grupos       |
-| Permisos de archivos        | Comprimir/Descomprimir   |  Línea de Comandos III.|
+Este no es un curso básico de "introducción a la computación". Es una formación técnica orientada a quienes buscan una base sólida para carreras en DevOps, Ciberseguridad o Cloud Engineering.
 
+**🚀 ¿Qué vas a aprender?**
 
+El programa está dividido en dos grandes bloques que cubren desde los fundamentos hasta la administración profesional:
 
+**Bloque 1: Fundamentos y Entorno (Linux Essentials)**
 
----------------------------------------------
+    Línea de Comandos: Navegación profunda, manipulación de archivos y flujos de datos.
 
-### Curso 2 - Redes
-![Banner Curso 3](https://www.redeszone.net/app/uploads-redeszone.net/2018/10/Networkctl-estado-redes-linux-930x452.jpg)
-- **Precio:** [U$S 15 - $65.000 ARS]
-- **Descripción:** [Al completar el curso en su totalidad y su aprobación, servirá para tener conocimientos sólidos de redes y configuración y puesta en marcha de distintos servicios para el servidor dedicado. Además de entender y comprender las reglas en el firewall del servidor.]
-- **Modo de cursada:** [Asincrónica]
+    Administración Base: Gestión de usuarios, grupos y permisos de archivos públicos/privados.
 
-| Plan        | de | Estudio      |
-|--------------|------|-------------|
-| Concepto de redes        | Configuración DHCP   | Configuración DNS|
-| Configuración SSH        |Configuración FTP   | Configuración NFS      |
-| Configuración SAMBA      |Apache webserver   | Iptables & Squid       |
+    Seguridad y Redes: Configuración base, servicios SSH y seguridad esencial.
 
---------------------------------------------
+    Herramientas Pro: Procesos con htop, compresión de datos y habilidades TIC.
+    
 
-### Curso 3 - Kali Linux
-![Banner Curso 3](https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw)
-- **Precio:** [U$S 25 - $125.000 ARS]
-- **Descripción:** [Al completar el curso en su totalidad y su aprobación, el estudiante comprenderá el uso del SO Kali Linux, los comandos y programas que se utilizan para auditar una red, penetración de redes Wi-Fi, password cracking, hacking ético.]
-- **Modo de cursada:** [Asincrónica]
+**Bloque 2: Administración de Sistemas (LPIC-1 Bridge)**
 
-| Plan        | de | Estudio      |
-|--------------|------|-------------|
-| Introducción al Hacking ético        | Conceptos básicos y vulnerabilidades   |  RapidPayload|
-| Metasploit        |IP   | Robtex      |
-|  NMAP      |Creación de diccionarios   | Protocolos WPS/WEP/WPA/ARP       |
+    Arquitectura y Arranque: Entendimiento del Kernel, GRUB y niveles de ejecución (Systemd).
 
----------------------------------------------
+    Gestión de Almacenamiento: Particiones, sistemas de archivos, enlaces duros y simbólicos.
 
-### Curso 4 - Linux Administrator (LPIC 1 - Primera parte)
-![Banner Curso 3](https://images.credly.com/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/LPI_LPIC1.png)
-- **Precio:** [U$S 70 - $150.000 ARS]
-- **Descripción:** [Al completar el curso en su totalidad y su aprobación, sirve para dar sin problema alguno el certificado internacional en la Linux Professional Institute (LPI). Tener en cuenta que el curso de por sí no brinda ni voucher ni acceso al certificado, sino que es una ayuda para poder rendirlo de forma efectiva y no perder el derecho a examen de LPI.]
-- **Modo de cursada:** [Asincrónica]
-- **Plan de Estudio:** 
+    Software y Automatización: Gestión de paquetes (APT/Debian/RPM) y Shell Scripting avanzado.
 
-| Plan        | de | Estudio      |
-|--------------|------|-------------|
-|  Hardware        | Arranque el sistema   | Objetivo de arranque (niveles)|
-|  Esquema HDD        |GRUB   |  Librerias      |
-|  APT      |Virtualización   |  Línea de Comandos III      |
-|  Secuencias usando filtros        |  Administración de archivos   | Creación, supervisión, matar procesos|
-|   Modificar prioridadades de procesos        |Particiones de sistemas de archivos   |  Enlace duro y simbólico.      |
+    Virtualización: Implementación de Linux en entornos virtualizados.
 
--------------------------------------------
+**💡 ¿Por qué elegir este curso?**
 
+    Alineación LPI: Al terminar, estarás técnicamente capacitado para rendir las certificaciones internacionales 010-160 (Essentials) y los módulos 101/102 (LPIC-1).
 
-**Si bien todas las clases son asincrónicas, se brinda un espacio de 2hs semanales para encuentros sincrónicos (para sacar dudas de material, solventar problemas, etc).**
+    Enfoque Práctico: No solo vemos teoría. Trabajamos sobre casos reales: desde blanquear una contraseña de root hasta optimizar procesos del sistema.
+
+    Ahorro Estratégico: Mientras que una diplomatura universitaria ronda los $660.000 ARS, aquí obtenés el mismo conocimiento técnico de forma directa y aplicada.
+
+    **🛠 Modalidades y Costos (Enero 2026)**
+
+Fijamos nuestros precios pensando en la realidad argentina, ofreciendo una formación de nivel universitario a una fracción de su costo institucional.
+
+Características:
+
+Opción A: Asincrónico	(Material	Acceso de por vida a videos pre-grabados) Precio $80.000 ARS // U$S40
+Opción B: Híbrido (Mentoría) - Videos pre-grabados + Sesión en vivo semanal Soporte	Autogestionado	Consultas técnicas directas con el instructor. Precio $180.000 ARS // U$S60
+
+Material	Acceso de por vida a videos pre-grabados.	Videos pre-grabados + Sesión en vivo semanal
+Soporte	Autogestionado	Consultas técnicas directas con el instructor
+Ideal para	Personas con poco tiempo y mucha disciplina	Quienes buscan acompañamiento y networking
+Precio (ARS)	$60.000	$180.000
+Precio (USD)	$40 USD	$120 USD
+    
