@@ -5,11 +5,24 @@
 
 He participado de la FLISOL de Argentina del 2023/2024/2025 dando clases académicas sobre GNU/Linux, además de participar en el Open Smart Festival de Colombia.
 
-Ofrezco estos 4 cursos con precios separados (todo el paquete de ellos a U$S100//ARS $300.000), en donde cada uno ofrece encuentros en vivo por meet/zoom de 1/2hs por semana, 
-documentación, ejercicios, para un mejor entendimiento del curso seleccionado. Los mismos pueden ser mixtos (síncrónico/ascinrónico), ya que se cuenta con un campus en 
-google classroom/discord.
+**🐧 Domina Linux: De la Consola a la Administración de Sistemas.**
+Formación Técnica con Metodología Mixta (Sincrónica/Asincrónica)
 
-Las clases se dictan los días sábados, horario a convenir. Cada curso posee horas cátedra para el mejor entendimiento de los temas (mínimo de 8hs, máximo de 16hs).
+Este repositorio contiene el material y la hoja de ruta para el curso de Linux diseñado para llevarte desde el desconocimiento total hasta un nivel de administración profesional. El temario está 100% alineado con los objetivos oficiales de la Linux Professional Institute (LPI).
+
+**🛠️ Metodología de Cursada**
+
+Para garantizar el aprendizaje, combinamos la flexibilidad de lo asincrónico con el soporte humano de lo sincrónico:
+
+    Campus Virtual: Mediante grupo de Whatsapp (o de forma individual) se otorgaŕan materiales certificados, documentación, ejercicios para ejecutar en máquina virtual.
+
+    Videos Pre-grabados: Disponibles 24/7 para que avances a tu ritmo. Estos videos son originales y privados.
+
+    Encuentros en Vivo: Sesiones de 1 a 2 horas todos los sábados (horario a convenir) vía Meet, Teams o Zoom para resolución de dudas, ejercicios prácticos y demostraciones en tiempo real.
+
+    Carga Horaria: Cada módulo posee entre 8 y 16 horas cátedra de contenido intensivo.
+
+    Práctica Real: Documentación detallada y ejercicios diseñados para entornos de producción. **Al final se hará una evaluación similar a la de LPIC.**
 
 ---------------------------------------------
 
