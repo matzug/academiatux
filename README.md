@@ -34,7 +34,7 @@ Para garantizar el aprendizaje, combinamos la flexibilidad de lo asincrónico co
 ## Redes Sociales ##
 
 - **Facebook:** [Enlace a Facebook](https://www.facebook.com/academiatux)
-- **WhatsApp:** [Enlace a WhatsApp](https://chat.whatsapp.com/F8vgk0ghstH3fnp9Ng7ALq)
+- **WhatsApp:** [Enlace a WhatsApp](https://chat.whatsapp.com/J274lhV4hUm9jrBpaK9ohH)
   
 
 ## Cursos Destacados
